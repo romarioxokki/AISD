@@ -1,0 +1,3 @@
+D:/Alghorytm/lab3a/cmake-build-debug/CMakeFiles/lab3a.dir
+D:/Alghorytm/lab3a/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Alghorytm/lab3a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
